@@ -1,0 +1,33 @@
+{
+    "private": true,
+    "name": "@cutepilot/tsconfig",
+    "version": "1.0.3",
+    "description": "Common TypeScript config for CutePilot projects",
+    "repository": "cutepilot/tsconfig",
+    "author": "Onur Yildirim <onur@cutepilot.com>",
+    "contributors": [
+      "Onur Yıldırım <onur@cutepilot.com>"
+    ],
+    "license": "SEE LICENSE IN LICENSE",
+    "main": "tsconfig.json",
+    "engines": {
+      "node": ">=12",
+      "npm": "^8.1.0"
+    },
+    "cutepilot": {
+      "type": "module",
+      "dependencies": {}
+    },
+    "files": [
+      "tsconfig.json",
+      "README.md",
+      "LICENSE"
+    ],
+    "keywords": [
+      "tsconfig",
+      "typescript",
+      "ts",
+      "config",
+      "configuration"
+    ]
+}
