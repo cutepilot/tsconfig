@@ -61,7 +61,7 @@
         "noUnusedParameters": false,
         "noUncheckedIndexedAccess": false,
         "paths": {
-            "@esarj/*": ["../*"]
+            "@cutepilot/*": ["../*"]
         },
         "preserveConstEnums": false,
         "preserveSymlinks": false,
