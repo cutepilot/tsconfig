@@ -38,7 +38,6 @@
         ],
         "listEmittedFiles": false,
         "listFiles": false,
-        "locale": "en-us",
         "maxNodeModuleJsDepth": 0,
         "module": "NodeNext",
         "moduleResolution": "NodeNext",
@@ -79,7 +78,7 @@
         "strictNullChecks": true,
         "stripInternal": true,
         "suppressExcessPropertyErrors": false,
-        "suppressImplicitAnyIndexErrors": true,
+        // "suppressImplicitAnyIndexErrors": true, // deprecated
         "target": "ES2021",
         "traceResolution": false,
         "types": [
