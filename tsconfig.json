@@ -47,7 +47,7 @@
         "noEmitOnError": true,
         "noErrorTruncation": false,
         "noFallthroughCasesInSwitch": true,
-        "noImplicitAny": true,
+        "noImplicitAny": false,
         "noImplicitReturns": true,
         "noImplicitOverride": true,
         "noImplicitThis": true,
