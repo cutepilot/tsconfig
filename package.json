@@ -11,8 +11,8 @@
     "license": "SEE LICENSE IN LICENSE",
     "main": "tsconfig.json",
     "engines": {
-      "node": ">=12",
-      "npm": "^8.1.0"
+      "node": ">=20",
+      "npm": "^10"
     },
     "cutepilot": {
       "type": "module",
