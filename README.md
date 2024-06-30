@@ -1,18 +1,18 @@
-## `@esarj/tsconfig`
+## `@cutepilot/tsconfig`
 
 Shared [TypeScript config](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) for Eşarj projects.
 
 This module embraces:
 - ESM
-- Node v12+
-- ES2019, ES2020
+- Node v20+
+- ES2021, ESNext
 
-***Note**: When clonning to your local, place this project under `/@esarj/modules` directory.*
+***Note**: When clonning to your local, place this project under `/@cutepilot/modules` directory.*
 
 ### Installation
 
 ```
-$ npm install --save-dev github:esarj/tsconfig
+$ npm install --save-dev github:cutepilot/tsconfig
 ```
 
 ### Usage
@@ -21,7 +21,7 @@ $ npm install --save-dev github:esarj/tsconfig
 
 ```jsonc
 {
-    "extends": "@esarj/tsconfig",
+    "extends": "@cutepilot/tsconfig",
     "compilerOptions": {
         "baseUrl": ".",
         "declarationDir": "lib",
@@ -36,7 +36,7 @@ When you are targeting a higher version of Node.js, check the relevant ECMAScrip
 
 ```jsonc
 {
-    "extends": "@esarj/tsconfig",
+    "extends": "@cutepilot/tsconfig",
     "compilerOptions": {
         "target": "ES2021",
         // ...
@@ -45,5 +45,5 @@ When you are targeting a higher version of Node.js, check the relevant ECMAScrip
 }
 ```
 
-### Related @esarj projects
-- [`@esarj/eslint-config`](https://github.com/esarj/eslint-config) *(Use this instead of `tslint`.)*
+### Related @cutepilot projects
+- [`@cutepilot/eslint-config`](https://github.com/cutepilot/eslint-config) *(Use this instead of `tslint`.)*
