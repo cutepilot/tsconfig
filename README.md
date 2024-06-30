@@ -1,6 +1,6 @@
 ## `@cutepilot/tsconfig`
 
-Shared [TypeScript config](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) for Eşarj projects.
+Common [TypeScript config](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) for CutePilot projects.
 
 This module embraces:
 - ESM
