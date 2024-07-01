@@ -32,8 +32,8 @@
         "jsx": "react",
         "jsxFactory": "React.createElement",
         "lib": [
-            "ES2021",
-			"ES2021.String",
+            "ES2022",
+			"ES2022.String",
 			"DOM"
         ],
         "listEmittedFiles": false,
