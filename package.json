@@ -1,5 +1,4 @@
 {
-    "private": true,
     "name": "@cutepilot/tsconfig",
     "version": "1.0.3",
     "description": "Common TypeScript config",
