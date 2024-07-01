@@ -79,7 +79,7 @@
         "stripInternal": true,
         "suppressExcessPropertyErrors": false,
         // "suppressImplicitAnyIndexErrors": true, // deprecated
-        "target": "ES2021",
+        "target": "ES2022",
         "traceResolution": false,
         "types": [
             "node",
