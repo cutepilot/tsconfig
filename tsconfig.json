@@ -69,7 +69,7 @@
         "removeComments": false,
         // ESM doesn't yet support JSON modules.
         "resolveJsonModule": false,
-        "skipLibCheck": false,
+        "skipLibCheck": true,
         "sourceMap": true,
         "strict": true,
         "strictBindCallApply": false,
