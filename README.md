@@ -7,12 +7,10 @@ This module embraces:
 - Node v20+
 - ES2021, ESNext
 
-***Note**: When clonning to your local, place this project under `/@cutepilot/modules` directory.*
-
 ### Installation
 
 ```
-$ npm install --save-dev github:cutepilot/tsconfig
+$ npm i -D github:cutepilot/tsconfig
 ```
 
 ### Usage

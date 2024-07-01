@@ -2,17 +2,17 @@
     "private": true,
     "name": "@cutepilot/tsconfig",
     "version": "1.0.3",
-    "description": "Common TypeScript config for CutePilot projects",
+    "description": "Common TypeScript config",
     "repository": "cutepilot/tsconfig",
     "author": "Onur Yildirim <onur@cutepilot.com>",
     "contributors": [
       "Onur Yıldırım <onur@cutepilot.com>"
     ],
-    "license": "SEE LICENSE IN LICENSE",
+    "license": "MIT",
     "main": "tsconfig.json",
     "engines": {
-      "node": ">=20",
-      "npm": "^10"
+      "node": ">=16",
+      "npm": "^8"
     },
     "cutepilot": {
       "type": "module",
